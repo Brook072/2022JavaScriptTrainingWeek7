@@ -18,8 +18,8 @@ module.exports = {
     },
     extend: {
       backgroundImage: {
-        'createAreaImage': "url('https://brook072.github.io/2022JavaScriptTrainingWeek6/assets/images/main_img.png')",
-        'createAreaSlogan': "url('https://brook072.github.io/2022JavaScriptTrainingWeek6/assets/images/logo.png')",
+        'createAreaImage': "url('https://brook072.github.io/2022JavaScriptTrainingWeek7/assets/images/main_img.png')",
+        'createAreaSlogan': "url('https://brook072.github.io/2022JavaScriptTrainingWeek7/assets/images/logo.png')",
       },
       colors:{
         'primary':'#00807E',
